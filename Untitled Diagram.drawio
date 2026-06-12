@@ -1,0 +1,137 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="r4LOpr6c7bGnTJUbUBoX">
+    <mxGraphModel dx="1990" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="design rules" vertex="1">
+          <mxGeometry height="80" width="120" x="650" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="bulk polymer" vertex="1">
+          <mxGeometry height="80" width="120" x="80" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Interface" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-16" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BAKTRcDuNAi1Nk4crQ5q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Size" vertex="1">
+          <mxGeometry height="80" width="80" x="230" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-17" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-18" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="interaction" vertex="1">
+          <mxGeometry height="80" width="80" x="520" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-19" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Bulk&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-20" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="thin film" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-9" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BAKTRcDuNAi1Nk4crQ5q-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-10" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="BAKTRcDuNAi1Nk4crQ5q-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-8" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Models" vertex="1">
+          <mxGeometry height="60" width="120" x="1090" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-13" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BAKTRcDuNAi1Nk4crQ5q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-14" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BAKTRcDuNAi1Nk4crQ5q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-15" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BAKTRcDuNAi1Nk4crQ5q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-12" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Results" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-24" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="BAKTRcDuNAi1Nk4crQ5q-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-25" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BAKTRcDuNAi1Nk4crQ5q-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-40" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="BAKTRcDuNAi1Nk4crQ5q-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-135" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-21" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Intro" vertex="1">
+          <mxGeometry height="60" width="120" x="1080" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Permanently crosslinked" vertex="1">
+          <mxGeometry height="60" width="120" x="810" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-28" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BAKTRcDuNAi1Nk4crQ5q-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-30" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BAKTRcDuNAi1Nk4crQ5q-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-32" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BAKTRcDuNAi1Nk4crQ5q-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Dynamic Crosslinked" vertex="1">
+          <mxGeometry height="60" width="120" x="810" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-27" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" value="enhanced mech, self, tunable rheology, shape memory" vertex="1">
+          <mxGeometry height="80" width="120" x="630" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-34" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BAKTRcDuNAi1Nk4crQ5q-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-29" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" value="miscibility of polymer blends" vertex="1">
+          <mxGeometry height="80" width="120" x="630" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-31" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" value="Mass density &amp;amp; St" vertex="1">
+          <mxGeometry height="80" width="120" x="520" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-36" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BAKTRcDuNAi1Nk4crQ5q-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="phase beh and compatibility" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-35" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="underpining mech why these property changes occur in polymer melt remain poorly understood?" vertex="1">
+          <mxGeometry height="60" width="440" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-37" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="this is where we ask how the size and interaction of the crosslinker affects their distribution in a polymer matrix and affect the bulk density and interficial properties of the polymer&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="520" x="110" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-38" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.885;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" target="BAKTRcDuNAi1Nk4crQ5q-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-39" edge="1" parent="1" source="BAKTRcDuNAi1Nk4crQ5q-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.277;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" target="BAKTRcDuNAi1Nk4crQ5q-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BAKTRcDuNAi1Nk4crQ5q-41" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Implicit" vertex="1">
+          <mxGeometry height="60" width="120" x="-230" y="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
